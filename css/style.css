@@ -54,7 +54,7 @@ body{
     border-radius: 50%;
     position: absolute;
     z-index: 1;
-    transition: .3s;
+    transition: .4s;
 }
 
 #red{

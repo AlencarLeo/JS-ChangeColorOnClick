@@ -1,17 +1,5 @@
-const menu = document.getElementById('menu');
-const estilos = document.querySelectorAll('#menu > *')
+import ativar from './modules/ativar.js';
+// import outsideClick from './modules/outsideClick.js'
 
-function mouseoverHanddle(){
-    estilos.forEach((estilo)=>{
-        estilo.classList.add('ativo');
-    })
-}
-
-function mouseoutHanddle(){
-    estilos.forEach((estilo)=>{
-        estilo.classList.remove('ativo');
-    })
-}
-
-menu.addEventListener('mouseover', mouseoverHanddle);
-menu.addEventListener('mouseout', mouseoutHanddle);
+ativar();
+// outsideClick();
