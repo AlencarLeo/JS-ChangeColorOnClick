@@ -1,5 +1,5 @@
 import ativar from './modules/ativar.js';
-// import outsideClick from './modules/outsideClick.js'
+// import styleClick from './modules/styleClick.js';
 
 ativar();
-// outsideClick();
+// styleClick();
