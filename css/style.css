@@ -12,17 +12,6 @@ body{
     background-size: cover;
 }
 
-.bg1{
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    background-color: red;
-    position: absolute;
-    top: 50%;
-    left: 75%;
-    z-index: -1;
-}
-
 .main{
     position: relative;
     display: flex;
@@ -87,9 +76,6 @@ body{
     left: 25px;
     opacity: 0;
 }
-
-
-
 
 #red.ativo{
     top: -60px;
