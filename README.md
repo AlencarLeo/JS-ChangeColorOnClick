@@ -1,11 +1,11 @@
-<h1 align="center">JS CHRONOMETER</h1>
-<p align="center">Chronometer coded with JS</p>
+<h1 align="center">JS CHANGE COLOR ON CLICK</h1>
+<p align="center">A changer color coded with JS</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlencarLeo/JS-ToDoList?style=for-the-badge">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AlencarLeo/JS-ToDoList?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlencarLeo/JS-ToDoList?style=for-the-badge">
-  <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-ToDoList?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlencarLeo/JS-ChangeColorOnClick?style=for-the-badge">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AlencarLeo/JS-ChangeColorOnClick?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlencarLeo/JS-ChangeColorOnClick?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-ChangeColorOnClick?style=for-the-badge">
 </p>
 <p align="center">
   <img src="/readme/demo.gif">
